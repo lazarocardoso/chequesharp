@@ -1,0 +1,16 @@
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\bin\Debug\net8.0-windows\ChequesPrinter.exe
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\bin\Debug\net8.0-windows\ChequesPrinter.deps.json
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\bin\Debug\net8.0-windows\ChequesPrinter.runtimeconfig.json
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\bin\Debug\net8.0-windows\ChequesPrinter.dll
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\bin\Debug\net8.0-windows\ChequesPrinter.pdb
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.Main.resources
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.csproj.GenerateResource.cache
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.AssemblyInfoInputs.cache
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.AssemblyInfo.cs
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.csproj.CoreCompileInputs.cache
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.dll
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\refint\ChequesPrinter.dll
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.pdb
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.genruntimeconfig.cache
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ref\ChequesPrinter.dll
