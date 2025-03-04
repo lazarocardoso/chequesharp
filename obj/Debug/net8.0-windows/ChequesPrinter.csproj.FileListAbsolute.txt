@@ -14,3 +14,4 @@ C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug
 C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.pdb
 C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.genruntimeconfig.cache
 C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ref\ChequesPrinter.dll
+C:\Users\lazar\OneDrive\Documentos\Projetos\chequesharp\ChequesPrinter\obj\Debug\net8.0-windows\ChequesPrinter.sourcelink.json

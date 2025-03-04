@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChequesPrinter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0b9b7f2172db552763c53da1f4c06c6b636fbfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChequesPrinter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChequesPrinter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
